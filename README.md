@@ -1,4 +1,4 @@
-# dbimp-project
+# DB_Implementation-Project
 Sandy Wood, Sara Alotaibi
 
 Files for CS 487 final group project - benchmarking PostgreSQL on an Ubuntu 20.04 LTS VM.
